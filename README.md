@@ -3,6 +3,7 @@
 🎓 Junior at University of Iowa, studying Industrial and Systems Engineering<br/>
 🔭 Aspiring Data Scientist and Machine Learning Engineer<br/>
 📫 How to reach me: My email isabelle-wood@uiowa.edu<br/>
+   or connect with me on LinkedIn: https://www.linkedin.com/in/isabelle-wood-56a0b2332/ <br/>
 
 I am always searching for opprtunities to help enrich my own knowledge through experience and love learning by doing! I think the most important thing is to take control of your own journey and taking initiative to go after your goals. I am currently earning a certificate in Machine Learning through the Break Through Tech AI program at Cornell University! (Ask me about this✨)<br/>
 
