@@ -21,9 +21,6 @@ Web Dev: HTML, CSS<br/>
 Tools: Jupyter Notebooks<br/>
 Databases: SQL, MySQL<br/>
 
-## Coming Soon... Through the Break Through Tech AI Program
-Machine Learning Foundations Course Final Project<br/>
-AI Studio Project w/ Industry Partner
 
 
 
